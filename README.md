@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Atmakuri Jashwanth
+**Aspiring Software Engineer seeking to apply expertise in Python, AI, and Full Stack
+Development to build scalable solutions and contribute to organizational growth.**
 - 🌱 I’m currently learning MERN Stack Development, Machine Learning, and Cloud Computing.<br><br>- 👯 I’m looking to collaborate on AI-based Applications, Open Source Contributions, and Full Stack Projects.<br><br>- 🤔 I’m looking for help with Scalable Backend Systems and Machine Learning Model Optimization.<br><br>- 💬 Ask me about Python, React.js, Node.js, JavaScript, and Fingerprint Recognition Projects.<br><br>- 📫 How to reach me: your-email@example.com | LinkedIn: linkedin.com/in/yourprofile<br><br>- 😄 Pronouns: He/Him<br><br>- ⚡ Fun fact: I love building projects that combine software development with real-world problem solving.
 
 
